@@ -16,4 +16,4 @@ Python ve Tkinter kullanılarak geliştirilmiştir.
 
 ## Ekler
 * [Proje tanıtım videosu](https://youtu.be/6e-kMc6rbUY?si=4YAtCGIsT2AyF_WL)
-* [Proje Makalesi]()
+* [Proje Makalesi](https://medium.com/@ismihankrmz/ger%C3%A7ek-zamanli-s%C3%B6di%CC%87zi%CC%87mi%CC%87-denetleyi%CC%87ci%CC%87-ve-renklendi%CC%87ri%CC%87ci%CC%87-f3e74b34e9d0)
